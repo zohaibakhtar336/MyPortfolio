@@ -1,35 +1,20 @@
-import WorkIm from '../assets/projects/workImg.jpeg'
-import RealEst from '../assets/projects/realestate.jpg'
-
-export const data=[
-    {
-        id:1,
-        name:"React JS Application",
-        image:WorkIm,
-        github:"",
-        live:"",
-    },
-    {
-        id:2,
-        name:"React JS Application",
-        image:RealEst,
-        github:"",
-        live:"",
-    },
-    {
-        id:3,
-        name:"React JS Application",
-        image:WorkIm,
-        github:"",
-        live:"",
-    },
-    {
-        id:4,
-        name:"React JS Application",
-        image:RealEst,
-        github:"",
-        live:"",
-    },
+import TalkMania from '../assets/projects/TalkMania.png'
+import StudyNotion from '../assets/projects/StudyNotion.png'
 
 
+export const data = [
+    {
+        id: 1,
+        name: "MERN ChatApp Project",
+        image: TalkMania,
+        github: "https://github.com/Zohaib336/FullStack_ChatApp_Project.git",
+        live: "https://fullstack-chatapp-project.onrender.com/login",
+    },
+    {
+        id: 2,
+        name: "MERN EdTech Project",
+        image: StudyNotion,
+        github: "https://github.com/Zohaib336/Full_Stack_EdTech_Project.git",
+        live: "https://full-stack-ed-tech-project.vercel.app/",
+    },
 ]
