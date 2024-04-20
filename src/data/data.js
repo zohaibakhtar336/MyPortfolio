@@ -1,5 +1,6 @@
 import TalkMania from '../assets/projects/TalkMania.png'
 import StudyNotion from '../assets/projects/StudyNotion.png'
+import Threads from '../assets/projects/Threads.png'
 
 
 export const data = [
@@ -12,6 +13,13 @@ export const data = [
     },
     {
         id: 2,
+        name: "Threads App",
+        image: Threads,
+        github: "https://github.com/Zohaib336/FullStack_Threads_App",
+        live: "https://fullstack-threads-app.onrender.com/auth",
+    },
+    {
+        id: 3,
         name: "MERN EdTech Project",
         image: StudyNotion,
         github: "https://github.com/Zohaib336/Full_Stack_EdTech_Project.git",
