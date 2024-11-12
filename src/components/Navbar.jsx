@@ -97,14 +97,14 @@ const Navbar = () => {
           <li className='w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-blue-600'>
             <a
               className='flex justify-between items-center w-full text-gray-300'
-              href='https://www.linkedin.com/in/zohaib-akhtar-2b4564266/' target="_blank" rel="noopener noreferrer">
+              href='https://www.linkedin.com/in/zohaibakhtar336' target="_blank" rel="noopener noreferrer">
               Linkedin <FaLinkedin size={30} />
             </a>
           </li>
           <li className='w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#333333]'>
             <a
               className='flex justify-between items-center w-full text-gray-300'
-              href='https://github.com/Zohaib336' target="_blank" rel="noopener noreferrer">
+              href='https://github.com/zohaibakhtar336' target="_blank" rel="noopener noreferrer">
               Github <FaGithub size={30} />
             </a>
           </li>
@@ -118,8 +118,8 @@ const Navbar = () => {
           <li className='w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#565f69]'>
             <a
               className='flex justify-between items-center w-full text-gray-300'
-              href='/'
-              download='zohaib_resume.pdf'>
+              href='/Zohaib_Resume.pdf'
+              download='Zohaib_Resume.pdf'>
               Resume <BsFillPersonLinesFill size={30} />
             </a>
           </li>
